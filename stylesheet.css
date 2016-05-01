@@ -5,12 +5,37 @@ body {
     font-size: 14px;
 }
 
-#header {
+#header ul {
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
     background-color: #FFFFFF;
     margin: 1px;
     height: 40px;
+    border-radius: 5px;
     
     
+}
+
+#header ul li {
+    
+    display: inline;
+    
+    
+    
+}
+
+#header ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 2em 1em;
+    color: #000;
+    background-color: #FFFFFF;
+}
+
+#header ul li a:hover {
+    color: #FFFFFF;
+    background-color: #BDBDBD;
 }
 
 .main {
@@ -52,3 +77,13 @@ h1 {
     opacity: 0.4;
     
 }
+
+#footer {
+    background-color: #FFFFFF;
+    margin: 10px;
+    height: 60px;
+    position: relative;
+    top: 300px;
+    clear:both;
+}
+
