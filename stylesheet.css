@@ -137,3 +137,36 @@ h1 {
     clear:both;
 }
 
+#footer ul {
+    padding: 9px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0px;
+    height: 40px;
+    border-radius: 5px;
+    
+    
+}
+
+#hfooter ul li {
+    
+    display: inline;
+    
+    
+    
+}
+
+#footer ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 2em 1em;
+    color: #000;
+    background-color: #FAFAFA;
+}
+
+#footer ul li a:hover {
+    color: #FFFFFF;
+    background-color: #E6E6E6 ;
+}
+
+
