@@ -108,7 +108,7 @@ h1 {
 
 .imagesidebar2 {
     width: 300px;
-    float: right;
+    float: left;
     border-radius: 5px;
     margin-left:10px; margin-right:10px;
     margin:0px; margin-bottom:10px;
@@ -124,6 +124,27 @@ h1 {
 }
 
 .imagesidebar2:hover {
+    opacity: 0.4;
+}
+
+.imagesidebar3 {
+    width: 300px;
+    float: center;
+    border-radius: 5px;
+    margin-left:10px; margin-right:10px;
+    margin:0px; margin-bottom:10px;
+    clear:left;
+    position: fixed;
+    top: 290px;
+    left: 475px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+     border: 5px solid #FAFAFA;
+    
+}
+
+.imagesidebar3:hover {
     opacity: 0.4;
 }
 
