@@ -79,9 +79,6 @@ div.container4 p {
 
 
 
-
-
-
 div.container6 {
     height: 10em;
     position: relative }
@@ -95,5 +92,12 @@ div.container6 p {
     transform: translate(-50%, -50%)
     background-color #E6E6E6;
 }
-    
- 
+
+.salad {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: solid white 1px;
+    padding: 2px;
+    top: 200px;
+}
