@@ -1,0 +1,259 @@
+body {
+    background-color: #E6E6E6;
+    margin: 0px;
+    font-family: Verdana, Georgia, serif;
+    font-size: 14px;
+}
+
+#header ul {
+    padding: 9px;
+    list-style-type: none;
+    text-align: left;
+    background-color: #FAFAFA;
+    margin: 0px;
+    height: 40px;
+    border-radius: 5px;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+    
+    
+}
+
+#header ul li {
+    
+    display: inline;
+    
+    
+    
+}
+
+#header ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 2em 1em;
+    color: #000;
+    background-color: #FAFAFA;
+}
+
+#header ul li a:hover {
+    color: #FFFFFF;
+    background-color: #E6E6E6 ;
+}
+
+.main {
+    background-color: #E6E6E6;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 110%;
+}
+
+h1 {
+    font-size:120%;
+    color: #282828;
+    padding-left: 530px;
+    position: fixed;
+    top: 150px;
+    text-align: center;
+    
+    
+}
+
+.imagesidebar3 {
+    width: 500px;
+    float: left;
+    border-radius: 5px;
+    margin-left:10px; margin-right:10px;
+    margin:0px; margin-bottom:10px;
+    clear:left;
+    position: fixed;
+    top: 290px;
+    right: 900px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+    border: 5px solid #FAFAFA;
+   
+    
+   
+}
+
+.imagesidebar3:hover {
+    opacity: 0.4;
+    
+}
+
+.imagesidebar1 {
+    width: 300px;
+    float: center;
+    border-radius: 5px;
+    margin-left:10px; margin-right:10px;
+    margin:0px; margin-bottom:10px;
+    clear:left;
+    position: fixed;
+    top: 290px;
+    left: 475px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+     border: 5px solid #FAFAFA;
+    
+}
+
+.imagesidebar1:hover {
+    opacity: 0.4;
+}
+
+
+.beauty {
+    width: 500px;
+    float: center;
+    border-radius: 5px;
+    margin-left: 10px; margin-right: 10px;
+    margin: 0px; margin-bottom: 10px;
+    clear: left;
+    position: fixed;
+    top:240px;
+    left: 50px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+    border: 5px solid #FAFAFA;
+}
+
+.beauty:hover {
+    opacity: 0.4;
+}
+
+.makeup {
+    width: 250px;
+    float: center;
+    border-radius: 5px;
+    margin-left: 5px; margin-right: 10pc;
+    margin: 0px; margin-bottom: 10px;
+    clear:left;
+    position: fixed;
+    top: 250px;
+    left: 1000px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+    border: 5px solid #FAFAFA;
+    
+}
+
+.makeup:hover {
+    opacity: 0.4;
+    
+}
+
+.salad {
+    width: 250px;
+    float: center;
+    border-radius: 5px;
+    margin-left: 5px; margin-right: 10px;
+    margin: 0px; margin-bottom: 10px;
+    clear: left;
+    position: fixed;
+    top: 250px;
+    left: 700px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity 0.5s ease-in-out;
+    border: 5px solid #FAFAFA;
+    
+    
+}
+
+.salad:hover {
+    opacity: 0.4;
+    
+}
+
+.tan {
+    width: 250px;
+    float: center;
+    border-radius: 5px;
+    margin-left: 5px; margin-right: 10px;
+    margin: 0px; margin-bottom: 10px;
+    clear: left;
+    position: fixed;
+    top: 450px;
+    left: 700px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity;
+    border: 5px solid #FAFAFA;
+    
+}
+
+.tan:hover {
+    opacity: 0.4;
+    
+}
+
+.light {
+    width: 235px;
+    float: center;
+    border-radius: 5px;
+    margin-left: 5px; margin-right: 10px;
+    margin: 0px; margin-bottom: 10px;
+    clear: left;
+    position: fixed;
+    top: 450px;
+    left: 1005px;
+    padding-left: 0px;
+    opacity: 1.0;
+    transition: opacity;
+    border: 5px solid #FAFAFA;
+    
+}
+
+.light:hover{
+    opacity: 0.4;
+}
+#footer {
+    background-color: #FAFAFA;
+    margin: 10px;
+    height: 60px;
+    position: relative;
+    top: 500px;
+    clear:both;
+}
+
+#footer ul {
+    padding: 9px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0px;
+    height: 40px;
+    border-radius: 5px;
+    
+    
+}
+
+#hfooter ul li {
+    
+    display: inline;
+    
+    
+    
+}
+
+#footer ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 2em 1em;
+    color: #000;
+    background-color: #FAFAFA;
+}
+
+#footer ul li a:hover {
+    color: #FFFFFF;
+    background-color: #E6E6E6 ;
+}
+
+
+
+
